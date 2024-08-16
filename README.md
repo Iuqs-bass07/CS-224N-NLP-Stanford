@@ -1,0 +1,1 @@
+  This is the repository which is made for the course CS 224N NLP Deep Learning taught at stanford. It will contain the implementation of the code a .pynb files and it will contain the notes of the some of the videos
